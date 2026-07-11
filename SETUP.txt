@@ -1,4 +1,4 @@
-【NINJA AIRS Basketball Stats V21 初期設定】
+【NINJA AIRS Basketball Stats V22 初期設定】
 
 1. Googleドライブで新しいGoogleスプレッドシートを作成します。
 2. スプレッドシート上部の「拡張機能」→「Apps Script」を開きます。
@@ -26,3 +26,8 @@
 【注意】
 Apps Scriptを修正した場合は「デプロイを管理」から新しいバージョンとして再デプロイしてください。
 端末のブラウザデータはオフライン時の一時保存に使います。同期後の正式データはスプレッドシートに残ります。
+
+
+【接続済みURL】
+https://script.google.com/macros/s/AKfycbwUWBj1lhgA8eg2410PCCvvjOGks5PiMb6QZGcF9npP9SVRFCCk26sAMFPLMuEv2qgg/exec
+このV22では上記URLをアプリへ初期設定済みです。通常は設定画面でURLを貼り直す必要はありません。
