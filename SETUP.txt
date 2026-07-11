@@ -1,4 +1,4 @@
-【NINJA AIRS Basketball Stats V20 初期設定】
+【NINJA AIRS Basketball Stats V21 初期設定】
 
 1. Googleドライブで新しいGoogleスプレッドシートを作成します。
 2. スプレッドシート上部の「拡張機能」→「Apps Script」を開きます。
