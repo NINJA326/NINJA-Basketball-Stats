@@ -31,3 +31,7 @@ Apps Scriptを修正した場合は「デプロイを管理」から新しいバ
 【接続済みURL】
 https://script.google.com/macros/s/AKfycbwUWBj1lhgA8eg2410PCCvvjOGks5PiMb6QZGcF9npP9SVRFCCk26sAMFPLMuEv2qgg/exec
 このV22では上記URLをアプリへ初期設定済みです。通常は設定画面でURLを貼り直す必要はありません。
+
+
+【V23更新時】
+Apps Script側のコード変更はありません。GitHub Pages側のファイルだけを上書きしてください。公開後、「選手・同期設定」→「今すぐ同期」を押すと選手名簿が送信されます。
